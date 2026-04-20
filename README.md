@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=375E49&height=200&section=header&text=Ruan%20Haack&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=16593D&height=200&section=header&text=Ruan%20Haack&fontSize=70&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pesquisador-UNEB/ACSO-black?style=for-the-badge&logoColor=white&color=375E49" />
+  <img src="https://img.shields.io/badge/Pesquisador-UNEB/ACSO-black?style=for-the-badge&logoColor=white&color=16593D" />
   <br>
   <b>Oi, meu nome é Ruan Haack</b>
 </p>
@@ -47,5 +47,5 @@ Atualmente, sou **pesquisador no ACSO**, focado em **Análise de Dados**, **Rob�
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E713C&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=16593D&height=100&section=footer" />
 </p>
