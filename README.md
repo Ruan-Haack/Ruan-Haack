@@ -23,20 +23,19 @@ Atualmente, sou pesquisador no **ACSO**, onde trabalho com **Robótica Autônoma
 
 ### 🛠️ Tecnologias e Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,gitlab,github,linux,vscode,git,ubuntu,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,gitlab,github,linux,vscode,git,ubuntu" />
 </p>
 
 ---
 
 ### 📊 Estatísticas e Atividade
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruan-Haack&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=b91d1d&border_color=b91d1d&hide_border=false" />
-  
-  <br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruan-Haack&theme=react-dark&area=true&bg_color=0d1117&color=b91d1d&line=b91d1d&point=ffffff&hide_border=true&font_color=ffffff" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruan-Haack&theme=react-dark&area=true&bg_color=0d1117&color=b91d1d&line=b91d1d&point=b91d1d&hide_border=true&font_color=ffffff&hide_points=true" width="100%" />
 </p>
 
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruan-Haack&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=b91d1d&border_color=b91d1d&hide_border=false" />
+</p>
 ---
 
 <p align="center">
