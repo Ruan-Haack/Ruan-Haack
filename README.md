@@ -1,52 +1,51 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#10b981&height=200&section=header&text=Ruan%20Haack&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=375E49&height=200&section=header&text=Ruan%20Haack&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ruan-haackdev/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=b91d1d" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=b91d1d" target="_blank">
-  </a>
+  <img src="https://img.shields.io/badge/Pesquisador-UNEB/ACSO-black?style=for-the-badge&logoColor=white&color=375E49" />
+  <br>
+  <b>Oi, meu nome é Ruan Haack</b>
 </p>
 
 ---
 
 ### 🚀 Sobre Mim
-Olá! Tenho 19 anos e sou estudante de **Sistemas de Informação na UNEB** (Salvador, BA). 
-Atualmente, sou pesquisador no **ACSO**, onde trabalho com **Dados** **Robótica Autônoma** e **Drones**, integrando tecnologias como **ROS2**, **Gazebo** e o **DJI SDK**.
+Olá! Tenho **19 anos** e sou estudante de **Sistemas de Informação na UNEB** (Salvador, BA). 
+Atualmente, sou **pesquisador no ACSO**, focado em **Análise de Dados**, **Robótica Autônoma e Drones**, utilizando **ROS2**, **Gazebo** e **DJI SDK** para integração de hardware e software.
 
-- 🎓 **Graduação:** Sistemas de Informação (UNEB)
-- 🔬 **Pesquisa:** Robótica, Visão Computacional (YOLOv8) e IA aplicada.
+- 🎓 **Acadêmico:** Desenvolvi protocolo de Revisão Sistemática sobre Big Data e saúde.
+- 🔬 **Pesquisa:** Foco em Visão Computacional (**YOLOv8**) e IA aplicada.
+
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,gitlab,github,linux,vscode,git,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,gitlab,github,linux,ubuntu,vscode,git" />
 </p>
 
 ---
 
-### 📊 Estatísticas e Atividade
+### 📊 Estatísticas e Análise
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruan-Haack&show_icons=true&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Haack&layout=compact&theme=vue-dark" />
+</div>
+---
+
+### Contacte-me:
 <p align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Haack&layout=donut&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=dc2626&border_color=dc2626&hide_border=false" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Ruan-Haack&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=dc2626&border_color=dc2626&hide_border=false" />
-      </td>
-    </tr>
-  </table>
+  <a href="https://www.linkedin.com/in/ruan-haackdev/">
+    <img src="https://img.shields.io/badge/LINKEDIN-white?style=for-the-badge&logo=linkedin&logoColor=556b2f&color=ffffff" target="_blank">
+  </a>
+  <a href="mailto:ruan.haack@ba.estudante.senai.br">
+    <img src="https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail&logoColor=556b2f&color=ffffff" target="_blank">
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruan-Haack&theme=react-dark&area=true&bg_color=0d1117&color=dc2626&line=dc2626&point=dc2626&hide_border=true&font_color=ffffff&hide_points=true" width="100%" />
-</p>
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=#10b981&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E713C&height=100&section=footer" />
 </p>
