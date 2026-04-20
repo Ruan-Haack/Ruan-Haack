@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b91d1d&height=200&section=header&text=Ruan%20Haack&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#10b981&height=200&section=header&text=Ruan%20Haack&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -30,18 +30,23 @@ Atualmente, sou pesquisador no **ACSO**, onde trabalho com **Dados** **Robótica
 
 ### 📊 Estatísticas e Atividade
 <p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Haack&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=b91d1d&border_color=b91d1d&hide_border=false" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Haack&layout=donut&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=dc2626&border_color=dc2626&hide_border=false" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ruan-Haack&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=dc2626&border_color=dc2626&hide_border=false" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruan-Haack&theme=react-dark&area=true&bg_color=0d1117&color=b91d1d&line=b91d1d&point=b91d1d&hide_border=true&font_color=ffffff&hide_points=true" width="100%" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruan-Haack&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=b91d1d&border_color=b91d1d&hide_border=false" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruan-Haack&theme=react-dark&area=true&bg_color=0d1117&color=dc2626&line=dc2626&point=dc2626&hide_border=true&font_color=ffffff&hide_points=true" width="100%" />
 </p>
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=b91d1d&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=#10b981&height=100&section=footer" />
 </p>
