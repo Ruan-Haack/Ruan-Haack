@@ -15,7 +15,7 @@
 
 ### 🚀 Sobre Mim
 Olá! Tenho 19 anos e sou estudante de **Sistemas de Informação na UNEB** (Salvador, BA). 
-Atualmente, sou pesquisador no **ACSO**, onde trabalho com **Robótica Autônoma** e **Drones**, integrando tecnologias como **ROS2**, **Gazebo** e o **DJI SDK**.
+Atualmente, sou pesquisador no **ACSO**, onde trabalho com **Dados** **Robótica Autônoma** e **Drones**, integrando tecnologias como **ROS2**, **Gazebo** e o **DJI SDK**.
 
 - 🎓 **Graduação:** Sistemas de Informação (UNEB)
 - 🔬 **Pesquisa:** Robótica, Visão Computacional (YOLOv8) e IA aplicada.
@@ -29,6 +29,10 @@ Atualmente, sou pesquisador no **ACSO**, onde trabalho com **Robótica Autônoma
 ---
 
 ### 📊 Estatísticas e Atividade
+<p align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Haack&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=b91d1d&border_color=b91d1d&hide_border=false" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ruan-Haack&theme=react-dark&area=true&bg_color=0d1117&color=b91d1d&line=b91d1d&point=b91d1d&hide_border=true&font_color=ffffff&hide_points=true" width="100%" />
 </p>
