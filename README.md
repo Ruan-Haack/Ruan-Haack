@@ -14,8 +14,7 @@
 Olá! Tenho **19 anos** e sou estudante de **Sistemas de Informação na UNEB** (Salvador, BA). 
 Atualmente, sou **pesquisador no ACSO**, focado em **Análise de Dados**, **Robótica Autônoma e Drones**, utilizando **ROS2**, **Gazebo** e **DJI SDK** para integração de hardware e software.
 
-- 🎓 **Acadêmico:** Desenvolvi protocolo de Revisão Sistemática sobre Big Data e saúde.
-- 🔬 **Pesquisa:** Foco em Visão Computacional (**YOLOv8**) e IA aplicada.
+- 🔬 **Pesquisa:** Foco em Dados e Visão Computacional (**YOLOv8**) e IA aplicada.
 
 ---
 
