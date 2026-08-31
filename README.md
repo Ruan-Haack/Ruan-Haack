@@ -23,15 +23,6 @@ Atualmente, sou **pesquisador no ACSO**, focado em **Análise de Dados**, **Rob�
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,gitlab,github,linux,ubuntu,vscode,git" />
 </p>
 
----
-
-### 📊 Estatísticas e Análise
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruan-Haack&show_icons=true&theme=vue-dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruan-Haack&layout=compact&theme=vue-dark" />
-</div>
----
 
 ### Contacte-me:
 <p align="center">
